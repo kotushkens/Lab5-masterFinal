@@ -1,0 +1,130 @@
+[
+  {
+    "id": 822205572,
+    "name": "maslo",
+    "coordinates": {
+      "x": 245.0,
+      "y": 56.0
+    },
+    "creationDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 29
+    },
+    "price": 3445.0,
+    "partNumber": "4554",
+    "manufactureCost": 45.0,
+    "unitOfMeasure": "GRAMS",
+    "manufacturer": {
+      "id": 235518777,
+      "name": "KATA",
+      "annualTurnover": 20000,
+      "type": "GOVERNMENT",
+      "postalAddress": {
+        "street": "Pushkina",
+        "town": {
+          "x": 556.0,
+          "y": 24,
+          "z": 58,
+          "name": "Lenobl"
+        }
+      }
+    }
+  },
+  {
+    "id": 174295007,
+    "name": "maslo",
+    "coordinates": {
+      "x": 245.0,
+      "y": 56.0
+    },
+    "creationDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 29
+    },
+    "price": 3445.0,
+    "partNumber": "4554",
+    "manufactureCost": 45.0,
+    "unitOfMeasure": "GRAMS",
+    "manufacturer": {
+      "id": 754012487,
+      "name": "KATA",
+      "annualTurnover": 20000,
+      "type": "GOVERNMENT",
+      "postalAddress": {
+        "street": "Pushkina",
+        "town": {
+          "x": 556.0,
+          "y": 24,
+          "z": 58,
+          "name": "Lenobl"
+        }
+      }
+    }
+  },
+  {
+    "id": 1582693248,
+    "name": "maslo",
+    "coordinates": {
+      "x": 245.0,
+      "y": 56.0
+    },
+    "creationDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 29
+    },
+    "price": 3445.0,
+    "partNumber": "4554",
+    "manufactureCost": 45.0,
+    "unitOfMeasure": "GRAMS",
+    "manufacturer": {
+      "id": 405482118,
+      "name": "KATA",
+      "annualTurnover": 20000,
+      "type": "GOVERNMENT",
+      "postalAddress": {
+        "street": "Pushkina",
+        "town": {
+          "x": 556.0,
+          "y": 24,
+          "z": 58,
+          "name": "Lenobl"
+        }
+      }
+    }
+  },
+  {
+    "id": 1027090098,
+    "name": "maslo",
+    "coordinates": {
+      "x": 245.0,
+      "y": 56.0
+    },
+    "creationDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 29
+    },
+    "price": 3445.0,
+    "partNumber": "4554",
+    "manufactureCost": 45.0,
+    "unitOfMeasure": "GRAMS",
+    "manufacturer": {
+      "id": 1231952907,
+      "name": "KATA",
+      "annualTurnover": 20000,
+      "type": "GOVERNMENT",
+      "postalAddress": {
+        "street": "Pushkina",
+        "town": {
+          "x": 556.0,
+          "y": 24,
+          "z": 58,
+          "name": "Lenobl"
+        }
+      }
+    }
+  }
+]
